@@ -43,6 +43,6 @@ This is possible because [we use the Parcel library](https://en.parceljs.org/scs
 
 - [ ] Changing 'month-lengh' and 'start-day' modifier in the code element
 reflects in changing calendar layout
-- [ ] Each day has no modifiers, only class (eg. calendar__day)
+- [ ] Each day has no modifiers, only class (eg. Calendar__day Calendar__day--start-day)
 - [ ] All `Typical Mistakes` from `BEM` lesson theory are checked.
 - [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
